@@ -71,6 +71,7 @@ Font Families
  Meslo for Powerline                     Meslo                     Apache License, Version 2.0
  Source Code Pro for Powerline           Source Code Pro           SIL Open Font License, Version 1.1
  Meslo Dotted for Powerline              Meslo Dotted              Apache License, Version 2.0
+ Meslo LGS NF			         Meslo NF             	   Apache License, Version 2.0
  Meslo Slashed for Powerline             Meslo Dotted              Apache License, Version 2.0
  Monofur for Powerline                   Monofur                   Freeware
  Noto Mono for Powerline                 Noto Mono                 SIL Open Font License, Version 1.1
